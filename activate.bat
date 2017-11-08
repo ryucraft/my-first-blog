@@ -1,0 +1,1 @@
+d:\djangogirls\myvenv\Scripts\activate.bat
